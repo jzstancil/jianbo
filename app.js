@@ -1,3 +1,5 @@
 (function() {
+console.log("hi");
 alert("hi");
-}).start;
+alert("hi");
+})();
